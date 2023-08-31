@@ -2,7 +2,7 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "syntax-episode-browser",
   "title": "Syntax Episode Browser",
-  "description": "",
+  "description": "An (unofficial) Raycast extension for browsing the Syntax.fm podcast episodes.",
   "icon": "command-icon.png",
   "author": "apoor",
   "categories": [
@@ -21,7 +21,6 @@
   "dependencies": {
     "@raycast/api": "^1.57.1",
     "@raycast/utils": "^1.9.1",
-    "rss-parser": "^3.13.0",
     "turndown": "^7.1.2"
   },
   "devDependencies": {
